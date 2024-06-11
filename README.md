@@ -11,7 +11,7 @@ Sodelujeva 2 dijaka.
 |Protoboard 1x|
 |LCD zaslon 1x|
 |Senzor razdalje 1x|
-|Potenciometer 1x|
+|Potenciometer 500k 1x|
 |Arduino kabel 1x|
 |Računalnik za kodo 1x|
 |Kabli 31x|
