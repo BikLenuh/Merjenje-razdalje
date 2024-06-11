@@ -11,7 +11,7 @@ const int D7 = 2;
 
 LiquidCrystal lcd(rs, en, D4, D5, D6, D7);
 
-float distance, t;
+float razdalja, t;
 
 void setup() {
   pinMode(trig, OUTPUT);
@@ -25,15 +25,15 @@ void loop() {
   delayMicroseconds(10);
   digitalWrite(trig, LOW);
   t = pulseIn(echo, HIGH);
-  distance = t / 58.82;
+  razdalja = t / 58.82;
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Razdalja:");
   lcd.setCursor(0, 1);
-  lcd.print(distance, 1);
+  lcd.print(razdalja, 1);
   lcd.print(" cm");
   Serial.print("Razdalja: ");
-  Serial.print(distance);
+  Serial.print(razdalja);
   Serial.println(" cm");
   delay(500);
 }
