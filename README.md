@@ -12,7 +12,6 @@ Sodelujeva 2 dijaka.
 |LCD zaslon 1x|
 |Senzor razdalje 1x|
 |Potenciometer 1x|
-|Upor 220 Ω 1x|
 |Arduino kabel 1x|
 |Računalnik za kodo 1x|
 |Kabli 31x|
