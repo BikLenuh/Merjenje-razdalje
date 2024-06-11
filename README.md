@@ -5,6 +5,7 @@ Napisati moramo tudi kodo saj brez nje ne bomo dobili pravih meril v "cm".
 Za vajo nam je namenjeno 17 šolskih ur.
 Sodelujeva 2 dijaka.
 |Potrebni materiali:|
+| ------------- |
 |Arduino 1x|
 |Protoboard 1x|
 |LCD zaslon 1x|
