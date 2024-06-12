@@ -5,6 +5,8 @@ Napisati moramo tudi kodo saj brez nje ne bomo dobili pravih meril v "cm".
 Senzor razdalje deluje z ultrazvočnim valovanjem, bolj podrobno pošlje en ultrazvočni valj katerega nato dobi nazaj in glede na čas izračuna razdaljo.
 Za vajo nam je namenjeno 17 šolskih ur.
 Sodelujeva 2 dijaka.
+Za vajo je dodeljena razlaga in pomoč ob kodi, ter pripeta slika vezja za lažje razumevanje in sledenje, je prijazna začetnikom.
+
 |Potrebni materiali:|
 | ------------- |
 |Arduino 1x|
