@@ -24,6 +24,6 @@ Treba je najprej narediti vezje. Vezje naredimo po skici priloženi iz easyeda. 
 Komentar:
 Naloga ni preveč zahtevna ampak je obenem zelo zahrbtna saj moramo natančno povezati žice glede na inpute in outpute v arduino kodi. Prav tako pa ni bilo treba izračunati nobenega upora zaradi česar je zelo prijazna začetnikom kateri še ne vedo kako to izračunati.
 Za naju je imela le malo preglavic in to so, da sva rabila vezje popraviti vsaj 3x, ker se je vsakič zgodilo, da nekaj ne dela. Prav tako pa sva imela težave z lcd displayom saj sva morala potenciometer natančno nastaviti drugače ni prikazovalo ničesar. Naloga na srečo na koncu ni potrebovala toliko časa vendar bi ga brez predznanja potrebovala veliko več. 
-Naprava je na koncu delovala kot mora vendar z malo napake (do 3 mm na bližje razdalje in do 8mm na daljše razdalje) za kar je lahko kriv senzor ali pa kabli in napake v spreminjanju napetosti.
 Naloga bi lahko izboljšana z bolj kvalitetnim senzorjem, kabli ter potenciometrom.
 Senzor prav tako ne mora meriti zelo majhnih razdalj saj bi pogosto (pod 4 cm) samo prikazal 3138.3 cm ali neko drugo veliko številko, prav tako pa ne mora meriti prevelikih razdalj (nad 450cm) saj bi izpisal neko drugo preveliko številko.
+Izmerjena napaka naprave: pri kratkih razdaljah (4 - 15 cm) je napaka od 1 do 3mm, pri srednjih razdaljah (15 - 60 cm) je napaka od 3 do 10 mm, pri dolgih razdaljah (60 - 450 cm) pa je napaka od 1 do 10cm
