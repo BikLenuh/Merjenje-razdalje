@@ -7,6 +7,8 @@ Za vajo nam je namenjeno 17 šolskih ur.
 Sodelujeva 2 dijaka.
 Za vajo je dodeljena razlaga in pomoč ob kodi, ter pripeta slika vezja za lažje razumevanje in sledenje, je prijazna začetnikom.
 
+Navodila:
+Treba je najprej narediti vezje. Vezje naredimo po skici priloženi iz easyeda. Paziti moramo da pazljivo povežemo kable na pravilne inpute ter, da se ti ne iztaknejo iz ohišja. Po končani sestavi vezja napišemo kodo. Kodo lahko poskusimo napisati sami lahko pa samo prekopiramo že dodeljeno kodo, kjer je tudi vsak del kode razložen.Preden naredimo ogrodje moramo še poskusiti, da naprava in koda delujeta. Na koncu pa samo še naredimo ohišje in zvrtamo luknje po dodeljeni skici lahko pa tudi drugače.
 |Potrebni materiali:|
 | ------------- |
 |Arduino 1x|
@@ -23,6 +25,7 @@ Za vajo je dodeljena razlaga in pomoč ob kodi, ter pripeta slika vezja za lažj
 
 Komentar:
 Naloga ni preveč zahtevna ampak je obenem zelo zahrbtna saj moramo natančno povezati žice glede na inpute in outpute v arduino kodi. Prav tako pa ni bilo treba izračunati nobenega upora zaradi česar je zelo prijazna začetnikom kateri še ne vedo kako to izračunati.
-Za naju je imela le malo preglavic in to so, da sva rabila vezje popraviti vsaj 3x, ker se je vsakič zgodilo, da nekaj ne dela. Prav tako pa sva imela težave z lcd displayom saj sva morala potenciometer natančno nastaviti drugače ni prikazovalo ničesar. Naloga na srečo na koncu ni potrebovala toliko časa vendar bi ga brez predznanja potrebovala veliko več. Naprava je na koncu delovala kot mora vendar z malo napake (1 ali 2 milimetra) za kar je lahko kriv senzor ali pa kabli in napake v napetosti.
-Naloga bi lahko izboljšana z bolj kvalitetnimi senzorji, kabli ter potenciometrom.
-Senzor prav tako ne mora meriti zelo majhnih razdalj saj bi pogosto samo prikazal 3138.3cm ali neko drugo veliko številko, prav tako pa ne mora meriti prevelikih razdalj saj bi izpisal neko drugo številko.
+Za naju je imela le malo preglavic in to so, da sva rabila vezje popraviti vsaj 3x, ker se je vsakič zgodilo, da nekaj ne dela. Prav tako pa sva imela težave z lcd displayom saj sva morala potenciometer natančno nastaviti drugače ni prikazovalo ničesar. Naloga na srečo na koncu ni potrebovala toliko časa vendar bi ga brez predznanja potrebovala veliko več. 
+Naprava je na koncu delovala kot mora vendar z malo napake (do 3 mm na bližje razdalje in do 8mm na daljše razdalje) za kar je lahko kriv senzor ali pa kabli in napake v spreminjanju napetosti.
+Naloga bi lahko izboljšana z bolj kvalitetnim senzorjem, kabli ter potenciometrom.
+Senzor prav tako ne mora meriti zelo majhnih razdalj saj bi pogosto (pod 4 cm) samo prikazal 3138.3 cm ali neko drugo veliko številko, prav tako pa ne mora meriti prevelikih razdalj (nad 450cm) saj bi izpisal neko drugo preveliko številko.
