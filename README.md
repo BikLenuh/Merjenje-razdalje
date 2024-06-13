@@ -19,7 +19,7 @@ Treba je najprej narediti vezje. Vezje naredimo po skici priloženi iz easyeda. 
 |Plastična plošča za ohišje 2x|
 |Dolgi vijaki za ohišje 4x|
 |Matice za vijake 12x|
-|Podložke za vijake 8x|
+|(poljubno) Podložke za vijake 4-16x|
 
 Komentar:
 Naloga ni preveč zahtevna ampak je obenem zelo zahrbtna saj moramo natančno povezati žice glede na inpute in outpute v arduino kodi. Prav tako pa ni bilo treba izračunati nobenega upora zaradi česar je zelo prijazna začetnikom kateri še ne vedo kako to izračunati.
